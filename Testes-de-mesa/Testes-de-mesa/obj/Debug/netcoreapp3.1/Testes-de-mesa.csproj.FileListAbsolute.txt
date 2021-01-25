@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\bin\Debug\netcoreapp3.1\Testes-de-mesa.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\bin\Debug\netcoreapp3.1\Testes-de-mesa.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\bin\Debug\netcoreapp3.1\Testes-de-mesa.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\bin\Debug\netcoreapp3.1\Testes-de-mesa.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\bin\Debug\netcoreapp3.1\Testes-de-mesa.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\bin\Debug\netcoreapp3.1\Testes-de-mesa.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\obj\Debug\netcoreapp3.1\Testes-de-mesa.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\obj\Debug\netcoreapp3.1\Testes-de-mesa.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\obj\Debug\netcoreapp3.1\Testes-de-mesa.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\obj\Debug\netcoreapp3.1\Testes-de-mesa.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\obj\Debug\netcoreapp3.1\Testes-de-mesa.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\obj\Debug\netcoreapp3.1\Testes-de-mesa.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Testes-de-mesa\Testes-de-mesa\obj\Debug\netcoreapp3.1\Testes-de-mesa.genruntimeconfig.cache

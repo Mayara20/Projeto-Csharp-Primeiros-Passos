@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\bin\Debug\netcoreapp3.1\Processamento-ex-5.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\bin\Debug\netcoreapp3.1\Processamento-ex-5.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\bin\Debug\netcoreapp3.1\Processamento-ex-5.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\bin\Debug\netcoreapp3.1\Processamento-ex-5.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\bin\Debug\netcoreapp3.1\Processamento-ex-5.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\bin\Debug\netcoreapp3.1\Processamento-ex-5.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\obj\Debug\netcoreapp3.1\Processamento-ex-5.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\obj\Debug\netcoreapp3.1\Processamento-ex-5.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\obj\Debug\netcoreapp3.1\Processamento-ex-5.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\obj\Debug\netcoreapp3.1\Processamento-ex-5.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\obj\Debug\netcoreapp3.1\Processamento-ex-5.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\obj\Debug\netcoreapp3.1\Processamento-ex-5.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Processamento-ex-5\Processamento-ex-5\obj\Debug\netcoreapp3.1\Processamento-ex-5.genruntimeconfig.cache

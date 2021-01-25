@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Extremamente-basico-URI/1.0.0": {
+        "runtime": {
+          "Extremamente-basico-URI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extremamente-basico-URI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

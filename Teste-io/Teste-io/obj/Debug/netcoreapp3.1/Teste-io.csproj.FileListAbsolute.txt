@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\bin\Debug\netcoreapp3.1\Teste-io.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\bin\Debug\netcoreapp3.1\Teste-io.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\bin\Debug\netcoreapp3.1\Teste-io.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\bin\Debug\netcoreapp3.1\Teste-io.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\bin\Debug\netcoreapp3.1\Teste-io.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\bin\Debug\netcoreapp3.1\Teste-io.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\obj\Debug\netcoreapp3.1\Teste-io.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\obj\Debug\netcoreapp3.1\Teste-io.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\obj\Debug\netcoreapp3.1\Teste-io.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\obj\Debug\netcoreapp3.1\Teste-io.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\obj\Debug\netcoreapp3.1\Teste-io.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\obj\Debug\netcoreapp3.1\Teste-io.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-io\Teste-io\obj\Debug\netcoreapp3.1\Teste-io.genruntimeconfig.cache

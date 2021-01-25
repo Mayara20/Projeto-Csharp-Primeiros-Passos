@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\bin\Debug\netcoreapp3.1\exercicio-resolvido.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\bin\Debug\netcoreapp3.1\exercicio-resolvido.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\bin\Debug\netcoreapp3.1\exercicio-resolvido.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\bin\Debug\netcoreapp3.1\exercicio-resolvido.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\bin\Debug\netcoreapp3.1\exercicio-resolvido.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\bin\Debug\netcoreapp3.1\exercicio-resolvido.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\obj\Debug\netcoreapp3.1\exercicio-resolvido.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\obj\Debug\netcoreapp3.1\exercicio-resolvido.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\obj\Debug\netcoreapp3.1\exercicio-resolvido.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\obj\Debug\netcoreapp3.1\exercicio-resolvido.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\obj\Debug\netcoreapp3.1\exercicio-resolvido.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\obj\Debug\netcoreapp3.1\exercicio-resolvido.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicio-resolvido\exercicio-resolvido\obj\Debug\netcoreapp3.1\exercicio-resolvido.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\bin\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\bin\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\bin\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\bin\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\bin\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\bin\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\obj\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\obj\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\obj\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\obj\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\obj\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\obj\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-de-fixacao-1\Exercicio-de-fixacao-1\obj\Debug\netcoreapp3.1\Exercicio-de-fixacao-1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\obj\Debug\netcoreapp3.1\Extremamente-basico-URI.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\obj\Debug\netcoreapp3.1\Extremamente-basico-URI.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\obj\Debug\netcoreapp3.1\Extremamente-basico-URI.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\obj\Debug\netcoreapp3.1\Extremamente-basico-URI.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\bin\Debug\netcoreapp3.1\Extremamente-basico-URI.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\bin\Debug\netcoreapp3.1\Extremamente-basico-URI.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\bin\Debug\netcoreapp3.1\Extremamente-basico-URI.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\bin\Debug\netcoreapp3.1\Extremamente-basico-URI.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\bin\Debug\netcoreapp3.1\Extremamente-basico-URI.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\bin\Debug\netcoreapp3.1\Extremamente-basico-URI.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\obj\Debug\netcoreapp3.1\Extremamente-basico-URI.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\obj\Debug\netcoreapp3.1\Extremamente-basico-URI.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Extremamente-basico-URI\Extremamente-basico-URI\obj\Debug\netcoreapp3.1\Extremamente-basico-URI.genruntimeconfig.cache

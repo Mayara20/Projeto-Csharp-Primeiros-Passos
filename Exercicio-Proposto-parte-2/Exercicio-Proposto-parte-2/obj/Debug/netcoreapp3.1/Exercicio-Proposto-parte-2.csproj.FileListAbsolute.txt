@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-Proposto-parte-2\Exercicio-Proposto-parte-2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte-2.genruntimeconfig.cache

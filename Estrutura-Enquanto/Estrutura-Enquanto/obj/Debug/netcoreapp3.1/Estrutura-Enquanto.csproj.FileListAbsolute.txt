@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\bin\Debug\netcoreapp3.1\Estrutura-Enquanto.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-Enquanto\Estrutura-Enquanto\obj\Debug\netcoreapp3.1\Estrutura-Enquanto.genruntimeconfig.cache

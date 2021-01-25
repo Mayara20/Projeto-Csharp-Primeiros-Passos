@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\bin\Debug\netcoreapp3.1\exercicios-do-URI.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\bin\Debug\netcoreapp3.1\exercicios-do-URI.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\bin\Debug\netcoreapp3.1\exercicios-do-URI.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\bin\Debug\netcoreapp3.1\exercicios-do-URI.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\bin\Debug\netcoreapp3.1\exercicios-do-URI.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\bin\Debug\netcoreapp3.1\exercicios-do-URI.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\obj\Debug\netcoreapp3.1\exercicios-do-URI.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\obj\Debug\netcoreapp3.1\exercicios-do-URI.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\obj\Debug\netcoreapp3.1\exercicios-do-URI.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\obj\Debug\netcoreapp3.1\exercicios-do-URI.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\obj\Debug\netcoreapp3.1\exercicios-do-URI.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\obj\Debug\netcoreapp3.1\exercicios-do-URI.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\exercicios-do-URI\exercicios-do-URI\obj\Debug\netcoreapp3.1\exercicios-do-URI.genruntimeconfig.cache

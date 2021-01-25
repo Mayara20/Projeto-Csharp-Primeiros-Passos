@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\obj\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\obj\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\obj\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\obj\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\bin\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\bin\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\bin\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\bin\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\bin\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\bin\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\obj\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\obj\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-terreno\Exercicio-resolvido-terreno\obj\Debug\netcoreapp3.1\Exercicio-resolvido-terreno.genruntimeconfig.cache

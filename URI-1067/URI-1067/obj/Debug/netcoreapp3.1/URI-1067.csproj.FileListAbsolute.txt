@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\URI-1067\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.genruntimeconfig.cache

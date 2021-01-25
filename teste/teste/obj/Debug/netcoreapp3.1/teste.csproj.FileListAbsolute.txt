@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\bin\Debug\netcoreapp3.1\teste.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\bin\Debug\netcoreapp3.1\teste.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\bin\Debug\netcoreapp3.1\teste.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\bin\Debug\netcoreapp3.1\teste.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\obj\Debug\netcoreapp3.1\teste.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\obj\Debug\netcoreapp3.1\teste.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\obj\Debug\netcoreapp3.1\teste.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\obj\Debug\netcoreapp3.1\teste.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\teste\teste\obj\Debug\netcoreapp3.1\teste.genruntimeconfig.cache

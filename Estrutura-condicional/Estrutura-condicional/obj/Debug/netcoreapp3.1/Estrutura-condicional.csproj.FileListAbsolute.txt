@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\bin\Debug\netcoreapp3.1\Estrutura-condicional.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\bin\Debug\netcoreapp3.1\Estrutura-condicional.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\bin\Debug\netcoreapp3.1\Estrutura-condicional.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\bin\Debug\netcoreapp3.1\Estrutura-condicional.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\bin\Debug\netcoreapp3.1\Estrutura-condicional.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\bin\Debug\netcoreapp3.1\Estrutura-condicional.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\obj\Debug\netcoreapp3.1\Estrutura-condicional.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\obj\Debug\netcoreapp3.1\Estrutura-condicional.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\obj\Debug\netcoreapp3.1\Estrutura-condicional.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\obj\Debug\netcoreapp3.1\Estrutura-condicional.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\obj\Debug\netcoreapp3.1\Estrutura-condicional.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\obj\Debug\netcoreapp3.1\Estrutura-condicional.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Estrutura-condicional\Estrutura-condicional\obj\Debug\netcoreapp3.1\Estrutura-condicional.genruntimeconfig.cache

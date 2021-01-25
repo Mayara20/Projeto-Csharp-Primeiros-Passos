@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\bin\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\bin\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\bin\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\bin\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\bin\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\bin\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\obj\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\obj\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\obj\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\obj\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\obj\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\obj\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Exercicio-resolvido-enquanto\Exercicio-resolvido-enquanto\obj\Debug\netcoreapp3.1\Exercicio-resolvido-enquanto.genruntimeconfig.cache

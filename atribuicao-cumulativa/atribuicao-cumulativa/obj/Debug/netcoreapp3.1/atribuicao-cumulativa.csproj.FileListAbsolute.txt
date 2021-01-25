@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\bin\Debug\netcoreapp3.1\atribuicao-cumulativa.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\bin\Debug\netcoreapp3.1\atribuicao-cumulativa.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\bin\Debug\netcoreapp3.1\atribuicao-cumulativa.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\bin\Debug\netcoreapp3.1\atribuicao-cumulativa.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\bin\Debug\netcoreapp3.1\atribuicao-cumulativa.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\bin\Debug\netcoreapp3.1\atribuicao-cumulativa.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\obj\Debug\netcoreapp3.1\atribuicao-cumulativa.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\obj\Debug\netcoreapp3.1\atribuicao-cumulativa.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\obj\Debug\netcoreapp3.1\atribuicao-cumulativa.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\obj\Debug\netcoreapp3.1\atribuicao-cumulativa.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\obj\Debug\netcoreapp3.1\atribuicao-cumulativa.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\obj\Debug\netcoreapp3.1\atribuicao-cumulativa.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\atribuicao-cumulativa\atribuicao-cumulativa\obj\Debug\netcoreapp3.1\atribuicao-cumulativa.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\obj\Debug\netcoreapp3.1\Teste-Processamento.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\obj\Debug\netcoreapp3.1\Teste-Processamento.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\obj\Debug\netcoreapp3.1\Teste-Processamento.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\obj\Debug\netcoreapp3.1\Teste-Processamento.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\bin\Debug\netcoreapp3.1\Teste-Processamento.exe
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\bin\Debug\netcoreapp3.1\Teste-Processamento.deps.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\bin\Debug\netcoreapp3.1\Teste-Processamento.runtimeconfig.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\bin\Debug\netcoreapp3.1\Teste-Processamento.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\bin\Debug\netcoreapp3.1\Teste-Processamento.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\bin\Debug\netcoreapp3.1\Teste-Processamento.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\obj\Debug\netcoreapp3.1\Teste-Processamento.dll
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\obj\Debug\netcoreapp3.1\Teste-Processamento.pdb
+C:\DesenvolvimentoMayara\ws-vs-2019\Teste-Processamento\Teste-Processamento\obj\Debug\netcoreapp3.1\Teste-Processamento.genruntimeconfig.cache
