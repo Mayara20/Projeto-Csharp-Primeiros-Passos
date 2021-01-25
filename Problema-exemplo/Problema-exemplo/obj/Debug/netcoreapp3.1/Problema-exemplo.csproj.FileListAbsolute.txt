@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\bin\Debug\netcoreapp3.1\Problema-exemplo.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\bin\Debug\netcoreapp3.1\Problema-exemplo.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\bin\Debug\netcoreapp3.1\Problema-exemplo.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\bin\Debug\netcoreapp3.1\Problema-exemplo.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\bin\Debug\netcoreapp3.1\Problema-exemplo.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\bin\Debug\netcoreapp3.1\Problema-exemplo.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\obj\Debug\netcoreapp3.1\Problema-exemplo.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\obj\Debug\netcoreapp3.1\Problema-exemplo.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\obj\Debug\netcoreapp3.1\Problema-exemplo.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\obj\Debug\netcoreapp3.1\Problema-exemplo.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\obj\Debug\netcoreapp3.1\Problema-exemplo.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\obj\Debug\netcoreapp3.1\Problema-exemplo.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Problema-exemplo\Problema-exemplo\obj\Debug\netcoreapp3.1\Problema-exemplo.genruntimeconfig.cache

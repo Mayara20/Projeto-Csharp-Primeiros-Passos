@@ -1,0 +1,12 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes2\Exercicio_proposto_matrizes2\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes2.genruntimeconfig.cache

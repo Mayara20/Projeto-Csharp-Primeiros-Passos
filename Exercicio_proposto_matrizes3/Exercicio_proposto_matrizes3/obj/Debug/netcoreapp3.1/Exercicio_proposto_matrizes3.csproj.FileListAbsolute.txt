@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\bin\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio_proposto_matrizes3\Exercicio_proposto_matrizes3\obj\Debug\netcoreapp3.1\Exercicio_proposto_matrizes3.genruntimeconfig.cache

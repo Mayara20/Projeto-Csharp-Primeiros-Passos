@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\bin\Debug\netcoreapp3.1\Exercicios-propostos-1.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\bin\Debug\netcoreapp3.1\Exercicios-propostos-1.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\bin\Debug\netcoreapp3.1\Exercicios-propostos-1.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\bin\Debug\netcoreapp3.1\Exercicios-propostos-1.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\bin\Debug\netcoreapp3.1\Exercicios-propostos-1.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\bin\Debug\netcoreapp3.1\Exercicios-propostos-1.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\obj\Debug\netcoreapp3.1\Exercicios-propostos-1.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\obj\Debug\netcoreapp3.1\Exercicios-propostos-1.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\obj\Debug\netcoreapp3.1\Exercicios-propostos-1.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\obj\Debug\netcoreapp3.1\Exercicios-propostos-1.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\obj\Debug\netcoreapp3.1\Exercicios-propostos-1.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\obj\Debug\netcoreapp3.1\Exercicios-propostos-1.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicios-propostos-1\Exercicios-propostos-1\obj\Debug\netcoreapp3.1\Exercicios-propostos-1.genruntimeconfig.cache

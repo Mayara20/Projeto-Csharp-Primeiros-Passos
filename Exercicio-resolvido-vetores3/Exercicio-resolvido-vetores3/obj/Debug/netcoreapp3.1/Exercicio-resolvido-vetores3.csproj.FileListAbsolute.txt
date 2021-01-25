@@ -1,0 +1,13 @@
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.exe
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.deps.json
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.runtimeconfig.json
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.runtimeconfig.dev.json
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.dll
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.pdb
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.csprojAssemblyReference.cache
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.AssemblyInfoInputs.cache
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.AssemblyInfo.cs
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.dll
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.pdb
+C:\Users\Larissa\source\repos\Exercicio-resolvido-vetores3\Exercicio-resolvido-vetores3\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vetores3.genruntimeconfig.cache

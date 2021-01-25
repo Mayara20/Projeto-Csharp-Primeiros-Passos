@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\bin\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-Matrizes4\Exercicio-Proposto-Matrizes4\obj\Debug\netcoreapp3.1\Exercicio-Proposto-Matrizes4.genruntimeconfig.cache

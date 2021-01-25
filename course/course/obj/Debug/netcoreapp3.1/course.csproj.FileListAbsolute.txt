@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\bin\Debug\netcoreapp3.1\course.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\bin\Debug\netcoreapp3.1\course.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\bin\Debug\netcoreapp3.1\course.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\bin\Debug\netcoreapp3.1\course.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\bin\Debug\netcoreapp3.1\course.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\bin\Debug\netcoreapp3.1\course.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\obj\Debug\netcoreapp3.1\course.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\obj\Debug\netcoreapp3.1\course.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\obj\Debug\netcoreapp3.1\course.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\obj\Debug\netcoreapp3.1\course.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\obj\Debug\netcoreapp3.1\course.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\obj\Debug\netcoreapp3.1\course.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\course\course\obj\Debug\netcoreapp3.1\course.genruntimeconfig.cache

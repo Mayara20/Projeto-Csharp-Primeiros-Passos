@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\bin\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Proposto-parte2\Exercicio-Proposto-parte2\obj\Debug\netcoreapp3.1\Exercicio-Proposto-parte2.genruntimeconfig.cache

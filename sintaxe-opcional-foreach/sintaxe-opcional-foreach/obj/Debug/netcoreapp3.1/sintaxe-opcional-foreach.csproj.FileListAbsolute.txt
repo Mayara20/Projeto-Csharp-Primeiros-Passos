@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\bin\Debug\netcoreapp3.1\sintaxe-opcional-foreach.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\bin\Debug\netcoreapp3.1\sintaxe-opcional-foreach.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\bin\Debug\netcoreapp3.1\sintaxe-opcional-foreach.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\bin\Debug\netcoreapp3.1\sintaxe-opcional-foreach.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\bin\Debug\netcoreapp3.1\sintaxe-opcional-foreach.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\bin\Debug\netcoreapp3.1\sintaxe-opcional-foreach.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\obj\Debug\netcoreapp3.1\sintaxe-opcional-foreach.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\obj\Debug\netcoreapp3.1\sintaxe-opcional-foreach.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\obj\Debug\netcoreapp3.1\sintaxe-opcional-foreach.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\obj\Debug\netcoreapp3.1\sintaxe-opcional-foreach.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\obj\Debug\netcoreapp3.1\sintaxe-opcional-foreach.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\obj\Debug\netcoreapp3.1\sintaxe-opcional-foreach.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\sintaxe-opcional-foreach\sintaxe-opcional-foreach\obj\Debug\netcoreapp3.1\sintaxe-opcional-foreach.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\bin\Debug\netcoreapp3.1\URI-atividades.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\bin\Debug\netcoreapp3.1\URI-atividades.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\bin\Debug\netcoreapp3.1\URI-atividades.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\bin\Debug\netcoreapp3.1\URI-atividades.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\bin\Debug\netcoreapp3.1\URI-atividades.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\bin\Debug\netcoreapp3.1\URI-atividades.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\obj\Debug\netcoreapp3.1\URI-atividades.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\obj\Debug\netcoreapp3.1\URI-atividades.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\obj\Debug\netcoreapp3.1\URI-atividades.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\obj\Debug\netcoreapp3.1\URI-atividades.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\obj\Debug\netcoreapp3.1\URI-atividades.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\obj\Debug\netcoreapp3.1\URI-atividades.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\URI-atividades\URI-atividades\obj\Debug\netcoreapp3.1\URI-atividades.genruntimeconfig.cache

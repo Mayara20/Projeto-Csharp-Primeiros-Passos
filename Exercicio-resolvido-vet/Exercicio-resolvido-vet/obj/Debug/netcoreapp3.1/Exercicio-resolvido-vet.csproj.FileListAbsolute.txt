@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vet.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vet.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vet.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vet.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vet.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\bin\Debug\netcoreapp3.1\Exercicio-resolvido-vet.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vet.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vet.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vet.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vet.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vet.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vet.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-resolvido-vet\Exercicio-resolvido-vet\obj\Debug\netcoreapp3.1\Exercicio-resolvido-vet.genruntimeconfig.cache

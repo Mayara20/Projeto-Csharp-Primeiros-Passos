@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sintaxe-opcional-foreach", "sintaxe-opcional-foreach\sintaxe-opcional-foreach.csproj", "{72C89352-C9BA-46AC-80EE-2114FED5EA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C89352-C9BA-46AC-80EE-2114FED5EA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C89352-C9BA-46AC-80EE-2114FED5EA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C89352-C9BA-46AC-80EE-2114FED5EA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C89352-C9BA-46AC-80EE-2114FED5EA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D00FC43-3B6F-43EB-B2B8-711B0D1A51DE}
+	EndGlobalSection
+EndGlobal

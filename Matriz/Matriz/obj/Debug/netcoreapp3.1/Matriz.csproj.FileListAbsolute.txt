@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.genruntimeconfig.cache

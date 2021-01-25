@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\bin\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\bin\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\bin\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\bin\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\bin\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\bin\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\obj\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\obj\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\obj\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\obj\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\obj\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\obj\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-proposto-matrizes\Exercicio-proposto-matrizes\obj\Debug\netcoreapp3.1\Exercicio-proposto-matrizes.genruntimeconfig.cache

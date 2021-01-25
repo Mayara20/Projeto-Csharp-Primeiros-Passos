@@ -1,0 +1,13 @@
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.exe
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.deps.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.runtimeconfig.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.runtimeconfig.dev.json
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\bin\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.csprojAssemblyReference.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.AssemblyInfoInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.AssemblyInfo.cs
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.csproj.CoreCompileInputs.cache
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.dll
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.pdb
+C:\DesenvolvimentoMayara\WS-VS-2019\Exercicio-Resolvido-Matrizes\Exercicio-Resolvido-Matrizes\obj\Debug\netcoreapp3.1\Exercicio-Resolvido-Matrizes.genruntimeconfig.cache
